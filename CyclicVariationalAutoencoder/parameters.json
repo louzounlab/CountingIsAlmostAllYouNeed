@@ -1,0 +1,6 @@
+{
+  "root" : "../../VovaThesis/Ariel_code/FilteredData2/",
+  "EPOCHS" : 10,
+  "ENCODING_DIM" : 30,
+  "SAMPLES_COUNT" : 1000
+}
