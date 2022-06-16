@@ -1,0 +1,786 @@
+	Subject ID	Sex	Age	Race and ethnicity	Known CMV status	Inferred CMV status (all data)	Inferred CMV status (cross validation)	Known HLA alleles	Inferred HLA alleles (cross validation)
+0	HIP00110	Male	55	Unknown	-	-	-	A24, A3, B7, B7	A24, A3, B7
+1	HIP00169	Male	41	Unknown	-	-	-	A1, A2, B37, B27	A2, B27, B7
+2	HIP00594	Male	21	White, Not Hispanic or Latino	+	+	+	A2, A32, B7, B61	A2, A3, B44, B7
+3	HIP00602	Female	45	Unknown	-	-	-	A11, A2, B35, B51	A11, A2, B35, B51
+4	HIP00614	Male	27	White, Not Hispanic or Latino	-	-	-	A3, A29, B7, B7	A3, B7
+5	HIP00640	Female	37	Unknown	-	-	-	A2, A68, B27, B44	A2, B27, B44
+6	HIP00707	Male	Unknown	Unknown	+	+	+	A29, A2, B44, B62	A29, A2, B15, B44, B62
+7	HIP00710	Male	32	Unknown	-	-	-	A2, A3, B27, B7	A2, A3, B27, B7
+8	HIP00715	Male	44	Unknown	-	-	-	A32, A32, B14, B60	A32, B14
+9	HIP00728	Female	Unknown	Unknown	-	-	-	A2, A2, B51, B27	A2, B27, B51
+10	HIP00734	Female	32	Unknown	-	+	+	A2, A2, B44, B41	A2, B44
+11	HIP00761	Female	33	Unknown	+	+	+	A29, A29, B44, B58	A29, B44, B57
+12	HIP00769	Female	23	Unknown	-	-	-	A32, A1, B44, B8	A1, A32, B44, B8
+13	HIP00771	Male	35	White, Not Hispanic or Latino	-	-	-	A29, A2, B44, B7	A2, B44
+14	HIP00773	Female	1	Unknown, Hispanic or Latino	-	-	-	A24, A3, B61, B8	
+15	HIP00775	Male	39	White, Not Hispanic or Latino	+	+	+	A1, A66, B57, B41	A1
+16	HIP00777	Male	22	Unknown	+	-	-	A2, A3, B27, B7	A2, A3, B27
+17	HIP00779	Male	30	White, Not Hispanic or Latino	-	+	+	A1, A1, B8, B8	A1, B8
+18	HIP00805	Male	55	Unknown	-	-	-	A2, A3, B44, B7	A2, A3, B44
+19	HIP00813	Male	32	White, Not Hispanic or Latino	+	+	+	A2, A2, B51, B51	A2, B51
+20	HIP00819	Male	29	Unknown	-	-	-	A2, A11, B44, B27	A11, A2, B27, B44
+21	HIP00822	Female	38	Unknown	-	-	-	A3, A30, B7, B18	A30, A3, B18, B7, B8
+22	HIP00825	Female	10	White, Not Hispanic or Latino	-	-	-	A11, A25, B27, B58	B27
+23	HIP00826	Male	38	White, Not Hispanic or Latino	-	-	-	A23, A2, B49, B62	A23, A2, B35, B62
+24	HIP00832	Female	Unknown	Unknown	-	-	-	A11, A1, B27, B8	A11, A1, B8
+25	HIP00838	Female	26	Unknown, Hispanic or Latino	+	+	+	A29, A33, B44, B14	A29, B14, B44
+26	HIP00851	Female	34	White, Not Hispanic or Latino	+	+	+	A24, A26, B7, B44	A24, B44, B7
+27	HIP00869	Female	Unknown	Unknown	-	-	-	A3, A3, B18, B35	A1, A3, B18, B35, B7, B8
+28	HIP00898	Male	39	Unknown	+	+	+	A30, A2, B18, B39	B18
+29	HIP00904	Female	39	Unknown	-	-	-	A2, A2, B61, B27	A2, B27
+30	HIP00924	Male	37	Unknown	+	+	+	A24, A2, B8, B51	A24, A2, B51
+31	HIP00926	Male	26	Unknown	-	-	-	A3, A2, B35, B51	A2, A3, B35, B51
+32	HIP00934	Female	Unknown	Unknown	-	-	-	A11, A3, B35, B7	A3, B35
+33	HIP00951	Female	Unknown	Unknown	+	+	+	A24, A3, B39, B18	A24, A3, B18
+34	HIP00971	Female	51	Unknown	+	+	+		ND
+35	HIP00985	Male	53	White, Not Hispanic or Latino	+	+	+	A2, A26, B27, B14	A1, A2, B27, B8
+36	HIP00997	Male	29	Unknown	-	-	-	A2, A1, B62, B8	A1, A2, B15, B62
+37	HIP00999	Male	Unknown	Unknown	-	-	-	A26, A2, B14, B44	A26, A2, B14, B44
+38	HIP01004	Female	Unknown	Unknown	-	-	-	A1, A3, B8, B44	A1, A3, B44, B8
+39	HIP01022	Male	51	Unknown	-	-	-	A26, A2, B7, B39	B7
+40	HIP01055	Female	29	Unknown	-	-	-	A29, A24, B44, B39	A24, A29, B44
+41	HIP01091	Female	56	White, Not Hispanic or Latino	+	+	+		ND
+42	HIP01129	Female	Unknown	Unknown	-	-	-	A30, A24, B13, B51	A30, B51
+43	HIP01140	Male	Unknown	Unknown	-	-	-	A2, A3, B51, B35	A2, A3, B35, B51
+44	HIP01160	Male	31	Unknown	-	-	-	A2, A3, B62, B51	A2, A3, B15, B51, B62
+45	HIP01161	Male	21	Unknown	-	-	-		ND
+46	HIP01162	Male	Unknown	Unknown	-	-	-	A3, A3, B7, B8	A1, A3, B7, B8
+47	HIP01180	Female	35	Unknown	-	-	-	A2, A25, B62, B18	A25, A2, B15, B18, B62, B7
+48	HIP01181	Male	Unknown	Unknown	+	+	+	A1, A26, B8, B61	A1, A2, B8
+49	HIP01197	Male	Unknown	Unknown	-	-	-	A26, A1, B38, B8	A1, A26, B38, B8
+50	HIP01206	Female	40	Unknown	-	-	-	A24, A3, B39, B51	A24, A3, B51
+51	HIP01218	Male	Unknown	Unknown	-	-	-	A29, A24, B62, B7	A24, A29, B15, B44, B62
+52	HIP01219	Female	44	Unknown	+	+	+		ND
+53	HIP01220	Male	49	Unknown	+	+	+	A2, A32, B60, B44	A2, A32, B44, B60
+54	HIP01223	Male	27	Unknown	+	+	+	A2, A34, B14, B44	A2, B14, B44
+55	HIP01232	Male	54	Unknown	+	+	+	A2, A1, B39, B57	A1, A2, A32
+56	HIP01253	Male	47	Unknown	-	-	-		ND
+57	HIP01255	Male	Unknown	Unknown	+	-	-	A2, A24, B35, B39	A24, A2
+58	HIP01264	Male	Unknown	Unknown	-	-	-	A3, A2, B7, B62	A2, A3, B62, B7
+59	HIP01266	Male	32	Unknown	-	-	-	A11, A11, B55, B35	A11, B35
+60	HIP01298	Male	36	Unknown	Unknown	ND	ND	A2, A30, B62, B13	A2, A30, B62
+61	HIP01313	Male	32	Unknown	-	-	-	A24, A1, B7, B8	A1, A24, B7, B8
+62	HIP01359	Female	37	Unknown	-	-	-	A2, A2, B44, B18	A2, B44, B7
+63	HIP01384	Male	Unknown	Unknown	+	+	+	A30, A29, B13, B45	A29, A30, B13, B44
+64	HIP01391	Male	43	Unknown	-	-	-	A2, A33, B44, B14	A2, B14, B44
+65	HIP01392	Female	45	Unknown	-	-	-	A2, A29, B18, B44	A29, A2, B18, B44
+66	HIP01393	Female	25	Unknown	-	-	-	A2, A1, B51, B8	A1, A2, B51
+67	HIP01465	Female	Unknown	Unknown	+	+	+	A23, A23, B49, B44	A23, B44, B7
+68	HIP01470	Male	30	Unknown	+	-	-	A1, A1, B8, B8	A1, B8
+69	HIP01499	Female	Unknown	Unknown	-	-	-	A24, A30, B7, B51	A24, A30, B51
+70	HIP01501	Male	Unknown	Unknown	+	+	+	A32, A1, B60, B8	A1, A32, B40, B60, B8
+71	HIP01571	Male	Unknown	Unknown	-	-	-	A1, A2, B63, B51	A1, A2, B51
+72	HIP01582	Female	Unknown	Unknown	-	-	-	A31, A2, B7, B27	A2, A31, B27
+73	HIP01596	Male	48	Unknown	-	-	-		ND
+74	HIP01597	Male	27	Unknown	-	-	-		ND
+75	HIP01765	Female	48	Unknown	+	+	+		ND
+76	HIP01795	Female	Unknown	Unknown	-	-	-	A2, A3, B44, B14	A2, A3, B14, B44
+77	HIP01797	Male	35	Unknown	-	-	-	A1, A30, B8, B57	A1, A30, B13, B57, B8
+78	HIP01798	Male	Unknown	Unknown	-	-	-	A26, A2, B49, B7	A26, A2, B7
+79	HIP01805	Female	Unknown	Unknown	-	-	-	A1, A1, B35, B13	A1, A30, B13, B35
+80	HIP01820	Male	27	Unknown	-	-	-	A30, A1, B44, B13	A1, A30, B13, B44, B7
+81	HIP01850	Female	33	Unknown	+	+	+	A2, A30, B18, B18	A2, B18, B8
+82	HIP01856	Male	Unknown	Unknown	+	+	+	A2, A2, B44, B44	A2, B44
+83	HIP01865	Male	Unknown	Unknown	+	+	+	A29, A2, B13, B35	A29, A2, A30, B13, B35, B44
+84	HIP01867	Male	Unknown	Unknown	-	-	-	A2, A29, B55, B51	A2, B7
+85	HIP01870	Male	46	Unknown	-	-	-	A3, A24, B7, B37	A24, A3, B7
+86	HIP01947	Female	Unknown	Unknown	+	+	+	A1, A2, B8, B27	A1, A2, B27, B8
+87	HIP02024	Male	51	Unknown	+	+	+	A68, A24, B55, B51	A24, A68, B51
+88	HIP02078	Male	27	Unknown	+	+	+	A30, A11, B39, B35	A11, A30
+89	HIP02090	Male	14	White, Not Hispanic or Latino	-	-	-	A2, A26, B35, B38	A26, A2, B38, B44
+90	HIP02103	Male	10	White, Not Hispanic or Latino	-	-	-	A11, A31, B7, B7	A11, B7
+91	HIP02112	Female	6	White, Not Hispanic or Latino	-	-	-	A2, A2, B15, B7	A2
+92	HIP02126	Female	13	White, Not Hispanic or Latino	+	+	+	A24, A2, B55, B15	A24, A2, B15, B62
+93	HIP02271	Female	54	White, Not Hispanic or Latino	+	+	+		ND
+94	HIP02663	Male	Unknown	Unknown	+	+	+	A29, A24, B44, B7	A24, A29, A3, B44, B7
+95	HIP02734	Female	24	Unknown	-	-	-	A3, A26, B62, B56	A26, A2, A3, B15, B62
+96	HIP02737	Male	44	Unknown	-	-	-	A3, A2, B35, B38	A2, A3, B35
+97	HIP02742	Male	Unknown	Unknown	-	-	-	A11, A2, B18, B62	A2, B18, B35, B62
+98	HIP02780	Female	Unknown	Unknown	-	-	-		ND
+99	HIP02790	Female	11	Unknown, Hispanic or Latino	+	-	-		ND
+100	HIP02805	Male	Unknown	Unknown	-	-	-	A31, A1, B35, B57	A1, B35, B57
+101	HIP02811	Female	34	White, Not Hispanic or Latino	-	-	-	A1, A24, B8, B35	A1, A24, B35, B8
+102	HIP02820	Female	29	Unknown	-	-	-	A1, A26, B58, B38	A26, B38
+103	HIP02848	Male	Unknown	Unknown	-	-	-	A3, A1, B60, B8	A1, A3, B40, B60, B8
+104	HIP02855	Female	Unknown	Unknown	-	-	-	A2, A2, B7, B60	A2
+105	HIP02873	Female	Unknown	Unknown	+	+	+	A2, A23, B60, B44	A2, B44
+106	HIP02875	Male	Unknown	Unknown	-	-	-	A1, A11, B8, B55	A11, A1, B8
+107	HIP02877	Male	42	Unknown	-	-	-	A33, A26, B14, B35	A26, A33, B14, B35, B38
+108	HIP02928	Male	Unknown	Unknown	+	+	+	A2, A33, B50, B14	A33, B14
+109	HIP02931	Male	34	White, Not Hispanic or Latino	-	-	-	A2, A3, B51, B27	A2, A3, B27, B51
+110	HIP02947	Female	39	Unknown	+	+	+	A2, A24, B38, B51	A24, A2, B38, B51
+111	HIP02962	Female	61	White, Not Hispanic or Latino	+	+	+	A29, A1, B45, B62	A29
+112	HIP02997	Male	Unknown	Unknown	+	+	+	A29, A1, B7, B57	A29, B57
+113	HIP03004	Female	42	Unknown	-	-	-	A1, A25, B8, B44	A1, B44, B8
+114	HIP03099	Female	38	Unknown	-	-	-	A2, A24, B44, B62	A24, A2, B44, B62
+115	HIP03107	Male	36	White, Not Hispanic or Latino	-	-	-	A1, A11, B17, B62	A11, A1, B13, B15, B57, B62
+116	HIP03111	Male	26	White, Not Hispanic or Latino	-	-	-	A1, A29, B8, B51	A1, A29, B51, B7
+117	HIP03125	Male	46	Unknown	-	-	-		ND
+118	HIP03184	Female	59	White, Not Hispanic or Latino	-	-	-	A1, A2, B51, B44	A1, A24, A2, A3, B44, B51
+119	HIP03194	Female	36	White, Not Hispanic or Latino	+	+	+		ND
+120	HIP03197	Male	28	White, Not Hispanic or Latino	-	-	-		ND
+121	HIP03216	Female	48	White, Not Hispanic or Latino	+	+	+		ND
+122	HIP03228	Male	8	White, Not Hispanic or Latino	-	-	-	A24, A1, B18, B7	A1, A24, B18, B7
+123	HIP03233	Male	39	American Indian or Alaska Native, Not Hispanic or Latino	+	+	+	A2, A24, B57, B61	A24, A2, B57
+124	HIP03236	Female	23	White, Not Hispanic or Latino	-	-	-	A24, A31, B18, B60	B18
+125	HIP03275	Female	54	White, Not Hispanic or Latino	+	+	+	A3, A11, B7, B55	A11, A3, B7
+126	HIP03370	Male	41	White, Not Hispanic or Latino	+	+	+	A2, A1, B7, B52	A1, A2, B7
+127	HIP03378	Male	60	White, Not Hispanic or Latino	+	+	+	A1, A68, B8, B14	A1, B14, B8
+128	HIP03381	Female	42	White, Not Hispanic or Latino	+	+	+	A2, A24, B51, B44	A24, A2, B44, B51, B7
+129	HIP03383	Male	Unknown	White, Not Hispanic or Latino	-	-	-	A2, A32, B51, B44	A2, B44, B51
+130	HIP03385	Male	55	White, Not Hispanic or Latino	-	-	-	A2, A3, B60, B27	A2
+131	HIP03484	Male	46	White, Not Hispanic or Latino	-	-	-	A2, A2, B7, B58	A26, A2, B38
+132	HIP03494	Female	28	White, Not Hispanic or Latino	-	-	-	A1, A24, B37, B18	A24, B18
+133	HIP03495	Female	62	White, Not Hispanic or Latino	+	+	+	A2, A2, B62, B62	A2, B62
+134	HIP03502	Male	42	White, Not Hispanic or Latino	-	-	-	A24, A30, B38, B38	A24, A26, B38
+135	HIP03505	Male	49	Unknown	-	-	-	A2, A2, B8, B60	A1, A2, B60, B8
+136	HIP03511	Male	48	White, Not Hispanic or Latino	+	+	+	A23, A2, B7, B27	A23, A2, B27, B7
+137	HIP03591	Male	36	White, Not Hispanic or Latino	-	-	-	A1, A24, B8, B35	A1, A24, B35, B7, B8
+138	HIP03592	Male	34	White, Not Hispanic or Latino	-	-	-	A32, A2, B39, B7	A2, A32, B7
+139	HIP03597	Female	39	White, Not Hispanic or Latino	-	-	-	A2, A1, B51, B8	A1, A2, B35, B51, B8
+140	HIP03618	Male	62	White, Not Hispanic or Latino	+	+	+	A2, A2, B35, B44	A2, B35, B44, B7
+141	HIP03628	Male	Unknown	Unknown	+	+	+	A11, A2, B14, B51	A11, A2, B14, B51
+142	HIP03630	Male	46	American Indian or Alaska Native, Not Hispanic or Latino	+	+	+	A68, A2, B61, B27	A68, B27
+143	HIP03651	Female	38	White, Not Hispanic or Latino	-	-	-	A3, A24, B7, B44	A24, A3, B44
+144	HIP03677	Female	7	White, Not Hispanic or Latino	+	+	+	A24, A33, B63, B58	A24
+145	HIP03678	Female	39	White, Not Hispanic or Latino	-	-	-	A24, A1, B62, B8	A1, A24, B35, B62, B8
+146	HIP03685	Female	42	Unknown	-	-	-	A2, A24, B8, B39	A1, A24, A2, B39, B8
+147	HIP03693	Female	32	Unknown	-	-	-	A3, A31, B51, B60	A3
+148	HIP03695	Male	29	White, Not Hispanic or Latino	+	+	+	A23, A2, B41, B58	A1, A2, B7, B8
+149	HIP03720	Male	38	Unknown	+	+	+	A2, A26, B60, B7	A2, B7
+150	HIP03732	Male	47	Unknown	-	-	-	A24, A2, B44, B55	A24, A2, B44, B55
+151	HIP03746	Male	42	Unknown	-	-	-		ND
+152	HIP03807	Female	46	Unknown	+	+	+	A1, A24, B8, B51	A1, A24, B51, B8
+153	HIP03812	Male	Unknown	Unknown	-	-	-	A29, A1, B44, B8	A1, A29, B44
+154	HIP03814	Male	Unknown	Unknown	-	-	-		ND
+155	HIP04455	Male	55	White, Not Hispanic or Latino	+	+	+	A1, A24, B38, B35	A24, B38
+156	HIP04464	Female	17	Unknown, Hispanic or Latino	+	+	+	A28, A26, B61, B38	A26, A68, B38
+157	HIP04471	Female	27	Unknown	-	-	-	A30, A3, B35, B13	A3, B13, B35
+158	HIP04475	Female	55	White, Not Hispanic or Latino	+	-	-	A33, A32, B14, B51	B14
+159	HIP04480	Female	33	Unknown	-	-	-	A1, A2, B8, B27	A1, A2, B27, B8
+160	HIP04498	Female	42	Unknown, Hispanic or Latino	-	-	-	A3, A24, B14, B41	A3, B14
+161	HIP04509	Female	26	White, Not Hispanic or Latino	+	+	+	A3, A2, B14, B7	A2, A3, B14, B7
+162	HIP04510	Male	49	Unknown, Hispanic or Latino	+	+	+	A1, A30, B14, B35	A1, B14, B35
+163	HIP04511	Male	Unknown	Unknown	+	+	+	A2, A24, B44, B62	A2, B44, B7
+164	HIP04527	Female	54	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B62	A1, A2, B15, B62, B8
+165	HIP04532	Male	25	White, Not Hispanic or Latino	-	-	-	A24, A2, B51, B7	A2, B7
+166	HIP04545	Male	44	White, Not Hispanic or Latino	-	-	-	A11, A1, B35, B8	A11, A1, B35, B8
+167	HIP04552	Female	19	White, Not Hispanic or Latino	-	-	-	A1, A11, B58, B35	A11, B35
+168	HIP04555	Female	15	White, Not Hispanic or Latino	+	+	+	A24, A2, B18, B44	A24, A2, B18, B44
+169	HIP04576	Male	15	White, Not Hispanic or Latino	-	-	-	A30, A2, B18, B7	A2, B18, B7
+170	HIP04578	Male	42	White, Not Hispanic or Latino	+	+	+	A3, A24, B7, B7	A24, A3, B7
+171	HIP04597	Female	42	White, Not Hispanic or Latino	-	-	-	A2, A29, B60, B7	A29, A2, B60, B7
+172	HIP04605	Male	56	White, Not Hispanic or Latino	+	+	+	A26, A1, B22, B8	A1, B8
+173	HIP04611	Male	30	White, Not Hispanic or Latino	-	-	-	A1, A11, B37, B37	A11, A3, B7
+174	HIP04634	Female	10	White, Not Hispanic or Latino	+	+	+	A1, A24, B8, B38	A1, A24, B38, B8
+175	HIP04958	Male	25	White, Not Hispanic or Latino	-	-	-	A2, A2, B60, B51	A2, B40, B44, B51, B60, B7
+176	HIP05311	Female	48	Black or African American, Not Hispanic or Latino	+	+	+	A74, A2, B70, B53	A1, B7, B8
+177	HIP05331	Female	42	Unknown	+	+	+	A68, A24, B44, B18	A24, A68, B14, B18, B44
+178	HIP05377	Male	39	White, Not Hispanic or Latino	-	-	-	A1, A31, B8, B49	A1, A31
+179	HIP05388	Male	37	White, Not Hispanic or Latino	-	-	-	A1, A3, B8, B49	A1, A3, B8
+180	HIP05390	Male	45	White, Not Hispanic or Latino	-	-	-	A2, A25, B70, B7	A2, A3, B7
+181	HIP05398	Male	18	White, Not Hispanic or Latino	-	-	-	A3, A3, B7, B51	A3, B51, B7
+182	HIP05405	Male	40	White, Not Hispanic or Latino	+	+	+	A24, A30, B18, B18	A1, A24, B18, B8
+183	HIP05409	Male	16	White, Not Hispanic or Latino	-	-	-	A3, A3, B35, B35	A3, B35
+184	HIP05434	Male	36	White, Not Hispanic or Latino	+	+	+	A3, A3, B35, B35	A3, B35
+185	HIP05437	Male	28	White, Not Hispanic or Latino	+	-	-	A26, A11, B35, B62	A11, B35
+186	HIP05444	Female	38	Unknown	-	-	-	A1, A24, B8, B44	A1, A24, B44, B8
+187	HIP05455	Male	31	Unknown	+	+	+	A33, A24, B14, B5	A24, A33, B14, B51
+188	HIP05460	Female	50	White, Not Hispanic or Latino	+	+	+	A1, A3, B57, B49	A1, A3, B13, B35, B44, B49, B57
+189	HIP05467	Female	34	White, Not Hispanic or Latino	+	+	+	A2, A29, B44, B44	A29, A2, B44
+190	HIP05524	Male	36	Unknown	-	-	-	A1, A30, B8, B13	A1, A30, B13, B44, B8
+191	HIP05533	Female	22	White, Not Hispanic or Latino	-	-	-	A2, A2, B44, B14	A2, B14, B44
+192	HIP05535	Female	25	White, Not Hispanic or Latino	+	+	+	A2, A2, B57, B44	A2, B44, B57, B7
+193	HIP05540	Male	21	Unknown	-	-	-	A3, A24, B7, B7	A24, A3, B7
+194	HIP05551	Male	48	White, Not Hispanic or Latino	+	+	+	A2, A3, B44, B8	A1, A2, A3, B35, B44, B8
+195	HIP05552	Female	53	White, Not Hispanic or Latino	-	-	-	A24, A68, B8, B44	A1, A24, A68, B44, B8
+196	HIP05559	Female	21	White, Not Hispanic or Latino	+	+	+	A2, A3, B5, B7	A2, A3
+197	HIP05561	Male	50	White, Not Hispanic or Latino	-	-	-	A1, A25, B8, B8	A1, B8
+198	HIP05563	Male	66	White, Not Hispanic or Latino	+	+	+	A2, A31, B62, B60	A2, B60
+199	HIP05574	Male	9	White, Not Hispanic or Latino	-	-	-	A2, A23, B7, B7	A2, B7
+200	HIP05578	Female	29	White, Not Hispanic or Latino	-	-	-	A3, A30, B14, B51	A3, B14, B51
+201	HIP05590	Female	49	White, Not Hispanic or Latino	+	+	+	A2, A23, B7, B44	A2, B35, B44, B7
+202	HIP05595	Male	32	White, Not Hispanic or Latino	+	+	+	A68, A23, B51, B13	A11, A23, A30, A68, B13, B51
+203	HIP05665	Female	33	White, Not Hispanic or Latino	-	-	-	A2, A3, B57, B7	A24, A2, A3, B57, B7
+204	HIP05757	Female	42	Unknown	-	-	-	A1, A34, B8, B14	A1, B14, B8
+205	HIP05763	Male	41	Unknown	-	-	-	A24, A26, B7, B7	A3, B7
+206	HIP05815	Male	Unknown	Unknown	+	-	-	A1, A2, B61, B7	A1, A2, B7
+207	HIP05817	Female	Unknown	Unknown	-	-	-	A24, A2, B38, B44	A24, A2, B38, B44
+208	HIP05832	Male	54	White, Not Hispanic or Latino	+	+	+	A1, A1, B51, B7	A1, B51
+209	HIP05838	Female	36	White, Not Hispanic or Latino	-	-	-	A2, A1, B44, B8	A1, A2, B44, B8
+210	HIP05841	Male	33	White, Not Hispanic or Latino	+	+	+	A2, A3, B44, B27	A2, A3, B44
+211	HIP05934	Male	33	White, Not Hispanic or Latino	-	-	-	A32, A24, B8, B39	A1, A24, A32, B39, B7, B8
+212	HIP05941	Male	25	White, Not Hispanic or Latino	-	-	-	A2, A3, B7, B51	A2, A3, B51, B7
+213	HIP05942	Female	34	White, Not Hispanic or Latino	+	+	+	A3, A11, B8, B8	A11, A1, A3, B8
+214	HIP05948	Female	35	White, Not Hispanic or Latino	-	-	-	A2, A2, B41, B60	A26, A2, B38, B60
+215	HIP05960	Male	Unknown	Unknown	+	+	+	A2, A11, B7, B7	A11, A2, B7
+216	HIP06191	Male	30	Unknown	-	-	-	A24, A1, B35, B57	A24, B35, B57
+217	HIP07754	Female	32	Unknown	-	-	-	A3, A24, B40, B35	A24, A3, B35
+218	HIP08076	Female	Unknown	Unknown	-	-	-	A23, A32, B49, B35	B35
+219	HIP08223	Female	Unknown	White, Not Hispanic or Latino	-	-	-	A25, A3, B18, B14	A25, A3, B14, B18, B7
+220	HIP08230	Female	35	Unknown	-	-	-	A29, A24, B44, B62	A24, A29, B44
+221	HIP08236	Male	23	White, Not Hispanic or Latino	-	-	-	A2, A24, B60, B7	A24, A2
+222	HIP08305	Male	40	White, Not Hispanic or Latino	+	+	+	A24, A2, B35, B62	A24, A2, B15, B62
+223	HIP08337	Female	50	Unknown, Hispanic or Latino	+	+	+	A68, A3, B49, B63	A3, A68
+224	HIP08339	Male	19	White, Not Hispanic or Latino	-	-	-	A1, A3, B8, B7	A1, A3, B7, B8
+225	HIP08345	Male	Unknown	Unknown	-	-	-	A26, A1, B38, B8	A1, A26, B38, B8
+226	HIP08346	Male	45	Unknown	-	-	-	A3, A2, B60, B51	A2, A3, B51
+227	HIP08389	Male	29	White, Not Hispanic or Latino	-	-	-	A1, A2, B35, B60	A2, B35, B7
+228	HIP08399	Male	47	White, Not Hispanic or Latino	-	-	-	A3, A24, B7, B49	A3, B49, B7
+229	HIP08400	Female	45	White, Not Hispanic or Latino	+	+	+	A2, A2, B57, B27	A24, A2, B27, B57
+230	HIP08439	Female	23	Unknown	-	-	-	A1, A2, B8, B40	A1, A2, B8
+231	HIP08499	Male	41	Unknown	+	+	+		ND
+232	HIP08507	Female	46	Unknown	-	-	-	A1, A30, B44, B18	A1, B8
+233	HIP08521	Female	39	White, Not Hispanic or Latino	+	+	+	A24, A1, B7, B37	B7
+234	HIP08596	Female	61	Unknown	+	+	+	A1, A3, B8, B18	A1, A3, B18, B8
+235	HIP08598	Male	40	Unknown	+	+	+	A3, A31, B8, B7	A1, A31, A3, B7, B8
+236	HIP08653	Female	52	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B7	A1, A2, B8
+237	HIP08702	Male	Unknown	Unknown	+	+	+	A1, A1, B8, B8	A1, B7, B8
+238	HIP08710	Male	Unknown	Unknown	-	-	-	A2, A32, B27, B14	A32, B14, B27, B7
+239	HIP08711	Female	Unknown	Unknown	-	-	-	A23, A24, B7, B7	A23, A24, B7
+240	HIP08725	Female	26	Unknown	+	+	+	A1, A11, B8, B7	A11, A1, A2, B7, B8
+241	HIP08792	Male	51	White, Not Hispanic or Latino	+	+	+	A29, A31, B44, B7	A29, B44, B7
+242	HIP08805	Female	3	White, Not Hispanic or Latino	-	-	-	A68, A68, B35, B7	A68
+243	HIP08816	Male	37	Unknown	-	-	-	A2, A23, B7, B44	B44, B7
+244	HIP08821	Female	55	White, Not Hispanic or Latino	+	+	+	A30, A29, B13, B57	A29, A30, B13, B44, B57
+245	HIP08827	Male	42	White, Not Hispanic or Latino	+	+	+	A31, A32, B15, B62	A31, A32, B62
+246	HIP08888	Female	46	Unknown	-	-	-	A11, A3, B52, B7	A11, A3, B7
+247	HIP08890	Female	Unknown	Unknown	+	+	+	A3, A1, B7, B57	A3
+248	HIP08972	Male	51	White, Not Hispanic or Latino	-	-	-	A3, A2, B56, B51	A2, A3, B51
+249	HIP08977	Male	24	White, Not Hispanic or Latino	-	-	-	A2, A1, B18, B57	A2, B18, B57
+250	HIP08986	Male	34	White, Not Hispanic or Latino	+	+	+	A2, A3, B62, B7	A2, A3, B15, B62, B7
+251	HIP08989	Male	50	White, Not Hispanic or Latino	-	-	-	A3, A26, B7, B44	A26
+252	HIP09001	Female	8	White, Not Hispanic or Latino	-	-	-	A2, A2, B44, B61	A2, B44
+253	HIP09020	Female	58	White, Not Hispanic or Latino	+	+	+	A3, A2, B7, B27	A3, B7
+254	HIP09022	Female	47	White, Not Hispanic or Latino	+	+	+	A1, A3, B8, B62	A1, A3, B8
+255	HIP09026	Male	39	Black or African American, Not Hispanic or Latino	+	+	+	A3, A68, B41, B58	A3, B14, B58
+256	HIP09029	Female	25	White, Not Hispanic or Latino	-	-	-	A2, A24, B44, B35	A24, A2, B35, B44
+257	HIP09041	Female	54	White, Not Hispanic or Latino	-	-	-	A1, A2, B8, B8	A1, A2, B8
+258	HIP09046	Male	43	White, Not Hispanic or Latino	-	-	-	A26, A11, B38, B35	A11, A26, B14, B35, B38
+259	HIP09051	Female	51	Unknown	+	+	+	A3, A33, B7, B51	A3, B51, B7
+260	HIP09062	Female	27	White, Not Hispanic or Latino	+	+	+	A1, A11, B27, B57	A11, A1, B27
+261	HIP09097	Male	46	Unknown	-	-	-	A1, A3, B15, B15	A1, A3
+262	HIP09118	Male	Unknown	Unknown	-	-	-	A24, A1, B7, B62	A24, B7
+263	HIP09119	Female	Unknown	Unknown	+	-	-	A3, A2, B14, B51	A2, A3, B14, B51
+264	HIP09122	Female	Unknown	Unknown	+	-	-	A26, A11, B48, B75	A11
+265	HIP09150	Male	Unknown	Unknown	+	+	+	A2, A29, B60, B44	A29, A2, B44, B60
+266	HIP09159	Female	36	Unknown	-	-	-	A24, A32, B44, B62	A24, B15, B44, B62
+267	HIP09190	Female	Unknown	Unknown	+	+	+	A31, A11, B51, B7	A11, B51, B7
+268	HIP09235	Male	51	White, Not Hispanic or Latino	+	+	+	A2, A2, B35, B44	A2, B35, B44
+269	HIP09253	Male	52	White, Not Hispanic or Latino	-	-	-	A1, A2, B60, B57	A2
+270	HIP09284	Female	Unknown	Unknown	-	-	-	A1, A3, B7, B51	A1, A3, B51, B7
+271	HIP09344	Female	35	American Indian or Alaska Native, Not Hispanic or Latino	-	-	-	A24, A31, B35, B48	A24, A31, B35
+272	HIP09364	Male	15	Black or African American, Not Hispanic or Latino	+	-	-	A32, A2, B18, B53	A1, A2, A32, B18, B8
+273	HIP09365	Female	43	Unknown, Hispanic or Latino	+	+	+	A28, A2, B53, B35	A2, B35
+274	HIP09366	Female	22	Unknown	+	+	+	A3, A29, B7, B44	A29, A3, B44, B7
+275	HIP09430	Female	23	Asian, Not Hispanic or Latino	+	+	+	A2, A26, B40, B8	A1, A2, B8
+276	HIP09559	Female	27	Asian, Not Hispanic or Latino	-	-	-	A11, A33, B35, B58	A11, B35
+277	HIP09624	Female	22	Unknown, Hispanic or Latino	+	+	+	A24, A3, B15, B18	A24, A3, B18, B7
+278	HIP09681	Female	32	Unknown, Hispanic or Latino	+	+	+	A3, A11, B18, B35	A11, A3, B18, B35
+279	HIP09775	Male	37	Asian, Not Hispanic or Latino	+	+	+	A11, A34, B15, B38	A11
+280	HIP09789	Female	32	Asian, Not Hispanic or Latino	+	+	+	A1, A11, B37, B13	A11, A1, B37
+281	HIP10358	Female	32	White, Not Hispanic or Latino	-	-	-	A1, A2, B8, B50	B7
+282	HIP10376	Female	35	White, Not Hispanic or Latino	-	-	-	A3, A23, B35, B44	A23, A29, A3, B35, B44
+283	HIP10377	Female	61	White, Not Hispanic or Latino	+	+	+	A1, A3, B8, B35	A1, B35, B8
+284	HIP10389	Male	50	White, Not Hispanic or Latino	-	-	-	A2, A3, B37, B51	A2, A3, B51
+285	HIP10408	Female	53	White, Not Hispanic or Latino	+	+	+	A24, A68, B35, B18	A24, A68, B18, B35
+286	HIP10424	Female	37	Unknown	+	+	+	A24, A2, B7, B62	A1, A24, A2, B15, B51, B62, B8
+287	HIP10443	Female	55	Unknown	+	+	+	A3, A29, B7, B44	A29, A3, B44
+288	HIP10445	Female	49	White, Not Hispanic or Latino	-	-	-	A23, A2, B63, B51	A23, A2, B51
+289	HIP10447	Male	Unknown	Unknown, Hispanic or Latino	-	-	-	A2, A30, B60, B13	A2, A30, B13
+290	HIP10480	Female	11	Unknown	+	+	+	A3, A3, B50, B55	A3
+291	HIP10507	Male	34	White, Not Hispanic or Latino	+	+	+		ND
+292	HIP10514	Male	34	White, Not Hispanic or Latino	-	-	-	A2, A68, B35, B60	A2, A68, B35, B60
+293	HIP10545	Female	33	White, Not Hispanic or Latino	-	-	-	A2, A31, B62, B35	A2, B35, B62
+294	HIP10564	Female	45	White, Not Hispanic or Latino	-	-	-	A26, A24, B38, B48	A24, A26, B38
+295	HIP10568	Female	49	White, Not Hispanic or Latino	+	+	+	A2, A3, B60, B13	A1, A2, A3, B44, B8
+296	HIP10597	Male	27	White, Not Hispanic or Latino	-	-	-		ND
+297	HIP10602	Female	44	White, Not Hispanic or Latino	-	-	-		ND
+298	HIP10639	Male	51	White, Not Hispanic or Latino	-	-	-	A1, A2, B18, B44	A1, A2, B18, B35, B44, B8
+299	HIP10669	Male	32	White, Not Hispanic or Latino	+	+	+	A1, A30, B8, B13	A1, B8
+300	HIP10694	Female	42	White, Not Hispanic or Latino	-	-	-	A24, A26, B8, B57	A1, A24, A26, B57, B8
+301	HIP10716	Female	61	White, Not Hispanic or Latino	+	+	+	A2, A3, B15, B7	A2, A3, B7
+302	HIP10726	Female	25	White, Not Hispanic or Latino	-	+	+	A2, A3, B44, B52	A2, A3, B44, B52
+303	HIP10730	Male	65	White, Not Hispanic or Latino	-	-	-	A1, A2, B8, B52	A1, B8
+304	HIP10746	Male	14	White, Not Hispanic or Latino	-	-	-	A25, A23, B7, B44	A23, B44, B7
+305	HIP10759	Female	46	White, Not Hispanic or Latino	-	-	-	A2, A32, B15, B35	A2, B35
+306	HIP10787	Female	41	White, Not Hispanic or Latino	+	+	+	A31, A1, B40, B50	A1
+307	HIP10814	Male	Unknown	Unknown	+	+	+	A32, A3, B35, B7	A2, A3, B35, B7
+308	HIP10815	Male	Unknown	Unknown	-	-	-	A2, A11, B14, B35	A11, A2, B14, B35, B44
+309	HIP10817	Male	26	White, Not Hispanic or Latino	+	+	+	A3, A2, B60, B62	A2, A3, B15, B35, B60
+310	HIP10820	Male	32	Unknown	-	-	-	A24, A2, B35, B35	A24, A2, B35
+311	HIP10821	Male	54	White, Not Hispanic or Latino	-	-	-	A2, A26, B55, B55	A2
+312	HIP10823	Male	35	Unknown	-	-	-	A2, A24, B27, B44	A24, A2, B27, B44
+313	HIP10846	Unknown	Unknown	Unknown	Unknown	ND	ND	A29, A26, B51, B35	A26, B35
+314	HIP11058	Male	Unknown	Unknown	-	-	-	A2, A24, B44, B7	A24, A2, B44, B7
+315	HIP11513	Female	9	Native Hawaiian or other Pacific Islander, Not Hispanic or Latino	+	+	+	A34, A24, B40, B15	A24
+316	HIP11518	Female	42	Unknown, Hispanic or Latino	+	+	+	A31, A26, B35, B38	A31
+317	HIP11553	Male	8	Asian, Not Hispanic or Latino	-	-	-	A34, A26, B38, B38	A26, B38
+318	HIP11613	Female	61	Asian, Not Hispanic or Latino	+	-	-	A24, A24, B38, B40	A24
+319	HIP11649	Female	47	Asian, Not Hispanic or Latino	+	+	+	A24, A24, B35, B38	A24
+320	HIP11711	Male	35	Unknown	+	+	+	A24, A24, B51, B51	A24, B51
+321	HIP11717	Male	71	Unknown	+	+	+	A2, A2, B54, B48	A2
+322	HIP11758	Male	35	Asian, Not Hispanic or Latino	+	+	+	A26, A2, B54, B40	A26, A2
+323	HIP11774	Female	66	Asian, Not Hispanic or Latino	+	+	+	A26, A33, B35, B51	A26, B35, B51
+324	HIP11784	Male	34	Asian, Not Hispanic or Latino	+	+	+	A1, A3, B37, B35	A1, A24, A2, A3
+325	HIP11845	Female	29	White, Not Hispanic or Latino	-	-	-	A1, A1, B8, B8	A1, B8
+326	HIP11857	Female	51	White, Not Hispanic or Latino	+	+	+	A2, A1, B51, B8	A1, A2, B51, B8
+327	HIP11937	Female	55	Black or African American, Not Hispanic or Latino	+	+	+	A2, A68, B7, B8	A2, A68, B7
+328	HIP11989	Male	57	White, Not Hispanic or Latino	+	+	+	A11, A24, B51, B44	A11, A24, B51
+329	HIP12034	Female	2	White, Not Hispanic or Latino	-	-	-	A24, A24, B51, B7	A24
+330	HIP12088	Female	58	Unknown	-	-	-	A1, A30, B57, B18	A1, B8
+331	HIP12091	Male	47	Unknown	-	-	-	A2, A3, B7, B14	A2, A3, B14, B7
+332	HIP12097	Male	Unknown	Unknown	+	+	+	A68, A29, B14, B44	A29, B14
+333	HIP12099	Male	18	American Indian or Alaska Native, Not Hispanic or Latino	+	+	+	A2, A68, B44, B60	A2, A68, B44, B60
+334	HIP12123	Female	40	White, Not Hispanic or Latino	+	+	+	A2, A31, B44, B37	A2, B27, B44
+335	HIP12129	Male	34	White, Not Hispanic or Latino	-	-	-	A24, A1, B35, B39	A1, B35, B44
+336	HIP12143	Male	42	White, Not Hispanic or Latino	-	-	-	A11, A25, B44, B18	A11, A25, B18, B44
+337	HIP12165	Male	17	American Indian or Alaska Native, Not Hispanic or Latino	+	+	+	A2, A24, B27, B35	A24, A2, B27, B35
+338	HIP12527	Male	46	White, Not Hispanic or Latino	-	-	-	A29, A25, B44, B38	A26, A29, B38, B44
+339	HIP12533	Male	48	White, Not Hispanic or Latino	-	-	-	A2, A24, B60, B8	A1, A24, A2, B60, B8
+340	HIP12534	Female	50	Unknown	+	+	+	A2, A25, B44, B51	A25, A2, B44, B51
+341	HIP12538	Male	24	White, Not Hispanic or Latino	-	-	-	A24, A26, B35, B38	A24, A26, B35, B38
+342	HIP12703	Male	65	White, Not Hispanic or Latino	+	+	+	A1, A68, B47, B18	A1, B18, B8
+343	HIP12743	Female	64	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B60	A1, A2, B60, B8
+344	HIP12900	Male	28	Black or African American, Not Hispanic or Latino	+	-	-	A2, A33, B15, B7	
+345	HIP12980	Male	45	White, Not Hispanic or Latino	+	+	+	A1, A24, B8, B18	A1, A24, B18, B8
+346	HIP13015	Male	39	White, Not Hispanic or Latino	-	-	-	A1, A2, B57, B7	A2, B7
+347	HIP13122	Female	41	White, Not Hispanic or Latino	-	-	-	A2, A3, B7, B44	A2, A3, B44
+348	HIP13142	Female	46	White, Not Hispanic or Latino	-	-	-	A2, A24, B44, B44	A2, B44
+349	HIP13157	Male	31	Black or African American, Not Hispanic or Latino	+	+	+	A68, A68, B44, B41	A68, B44
+350	HIP13168	Female	Unknown	Unknown	-	-	-	A66, A2, B41, B44	A2, B44
+351	HIP13176	Female	36	White, Not Hispanic or Latino	+	-	-	A25, A1, B18, B8	A1, A25, B18, B7, B8
+352	HIP13178	Female	21	White, Not Hispanic or Latino	-	-	-	A1, A1, B37, B14	A1, B14
+353	HIP13183	Male	Unknown	Unknown	-	-	-	A1, A2, B37, B44	A2, B44
+354	HIP13185	Male	34	White, Not Hispanic or Latino	-	-	-	A2, A2, B44, B51	A2, B44, B51
+355	HIP13193	Male	Unknown	Unknown	-	-	-	A2, A29, B14, B45	A29, A2, B14
+356	HIP13198	Male	49	White, Not Hispanic or Latino	-	-	-	A2, A1, B61, B8	A1, A2
+357	HIP13206	Female	Unknown	Unknown	-	-	-	A30, A2, B13, B7	A1, A2, A30, B7, B8
+358	HIP13209	Female	39	White, Not Hispanic or Latino	-	-	-	A3, A1, B7, B8	A1, A3, B7
+359	HIP13214	Female	43	White, Not Hispanic or Latino	+	+	+	A3, A29, B7, B27	A3, B7
+360	HIP13217	Male	33	White, Not Hispanic or Latino	+	-	-	A30, A2, B13, B44	A2, A30, B13, B44
+361	HIP13220	Male	Unknown	Unknown	+	+	+	A26, A30, B35, B13	A26, A30, B13, B35, B44, B57
+362	HIP13227	Female	31	White, Not Hispanic or Latino	+	+	+	A3, A33, B45, B14	A1, A33, A3, B14, B8
+363	HIP13228	Male	Unknown	White, Not Hispanic or Latino	-	-	-	A2, A3, B61, B7	A2, A3
+364	HIP13230	Female	46	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B44	A1, A2, B44, B61, B8
+365	HIP13233	Male	29	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B51	A1, A2, B51, B7, B8
+366	HIP13244	Male	39	White, Not Hispanic or Latino	-	-	-	A1, A24, B44, B8	A1, A24, B44, B8
+367	HIP13245	Male	Unknown	Unknown	+	+	+		ND
+368	HIP13251	Male	40	White, Not Hispanic or Latino	-	-	-	A3, A23, B7, B49	A23, A3, B49, B7
+369	HIP13252	Female	Unknown	Unknown	-	-	-	A2, A3, B60, B35	A2, A3, B35
+370	HIP13256	Male	65	White, Not Hispanic or Latino	-	-	-	A1, A1, B8, B57	A1, B57, B8
+371	HIP13263	Female	40	White, Not Hispanic or Latino	-	-	-	A3, A31, B7, B27	A31, A3, B27, B7
+372	HIP13265	Male	Unknown	Unknown	-	-	-	A1, A2, B52, B44	A1, A2, B44
+373	HIP13274	Female	36	White, Not Hispanic or Latino	-	-	-	A11, A11, B8, B14	A11, A1, B14, B8
+374	HIP13276	Male	53	White, Not Hispanic or Latino	-	-	-	A2, A1, B7, B8	A1, A2, B8
+375	HIP13284	Male	11	White, Not Hispanic or Latino	-	+	+	A68, A1, B55, B8	A68, B55, B60, B7
+376	HIP13291	Female	34	White, Not Hispanic or Latino	+	+	+	A2, A2, B27, B18	A2, B18, B27
+377	HIP13294	Male	39	White, Not Hispanic or Latino	-	-	-	A68, A2, B8, B44	A2, A68, B44
+378	HIP13296	Female	34	White, Not Hispanic or Latino	+	+	+	A32, A2, B49, B44	A2, B44
+379	HIP13303	Male	Unknown	Unknown	-	-	-	A1, A26, B8, B38	A1, A26, B38, B8
+380	HIP13306	Male	30	Unknown, Hispanic or Latino	+	+	+	A2, A68, B14, B49	A1, A2, B14, B8
+381	HIP13309	Female	33	White, Not Hispanic or Latino	+	+	+	A25, A33, B8, B35	A1, B8
+382	HIP13311	Male	31	White, Not Hispanic or Latino	+	+	+	A31, A2, B60, B62	A2, B60, B62
+383	HIP13318	Female	Unknown	Unknown	+	+	+	A3, A3, B14, B14	A3, B13, B14, B7
+384	HIP13319	Male	37	White, Not Hispanic or Latino	-	-	-	A2, A1, B57, B14	A1, A24, A2, B14, B57
+385	HIP13324	Female	55	White, Not Hispanic or Latino	+	+	+	A3, A11, B7, B35	A3, B35, B8
+386	HIP13325	Male	42	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B62	A1, A2
+387	HIP13350	Male	36	White, Not Hispanic or Latino	-	-	-	A23, A29, B7, B38	A29, B38
+388	HIP13352	Female	43	White, Not Hispanic or Latino	+	+	+	A24, A32, B35, B62	A24, B35, B7
+389	HIP13355	Male	39	White, Not Hispanic or Latino	+	+	+	A3, A2, B62, B62	A2, A3, B62
+390	HIP13360	Female	44	White, Not Hispanic or Latino	+	+	+	A2, A2, B44, B49	A2, B44
+391	HIP13361	Female	20	Unknown, Hispanic or Latino	+	+	+	A23, A68, B49, B48	A2, A68
+392	HIP13363	Male	32	White, Not Hispanic or Latino	-	-	-	A1, A32, B8, B18	A1, B18, B8
+393	HIP13370	Female	65	White, Not Hispanic or Latino	-	-	-	A3, A26, B7, B7	A26, A3, B7
+394	HIP13376	Male	14	White, Not Hispanic or Latino	-	-	-	A29, A29, B44, B14	A29, B14, B44
+395	HIP13383	Male	44	White, Not Hispanic or Latino	-	-	-	A3, A24, B35, B44	A24, A2, A3, B35, B44
+396	HIP13396	Female	56	White, Not Hispanic or Latino	+	+	+	A2, A1, B73, B57	A2
+397	HIP13402	Female	Unknown	Unknown	-	-	-	A30, A3, B13, B7	A30, A3, B13, B7
+398	HIP13414	Female	48	White, Not Hispanic or Latino	+	+	+	A3, A24, B35, B35	A24, A3, B35
+399	HIP13427	Male	42	White, Not Hispanic or Latino	+	+	+	A26, A3, B38, B44	A26, A3, B38, B44
+400	HIP13449	Female	72	White, Not Hispanic or Latino	+	+	+	A2, A32, B37, B51	A2, A32, B51, B7
+401	HIP13463	Female	17	White, Not Hispanic or Latino	-	-	-	A31, A1, B60, B70	
+402	HIP13465	Male	40	White, Not Hispanic or Latino	-	-	-	A2, A2, B62, B44	A2, B15, B44, B62
+403	HIP13473	Female	47	White, Not Hispanic or Latino	-	-	-	A2, A1, B70, B8	A2
+404	HIP13478	Male	66	White, Not Hispanic or Latino	+	+	+	A2, A26, B35, B27	A26, A2, B27, B35
+405	HIP13489	Female	44	White, Not Hispanic or Latino	+	+	+	A24, A25, B51, B18	A24, A25, B18, B51, B7
+406	HIP13497	Male	51	White, Not Hispanic or Latino	-	-	-	A11, A24, B62, B39	A11
+407	HIP13505	Male	63	Unknown	-	-	-	A2, A29, B44, B44	A29, A2, B44
+408	HIP13511	Male	46	White, Not Hispanic or Latino	-	-	-	A1, A68, B52, B18	A1, A68, B18, B35
+409	HIP13513	Male	56	White, Not Hispanic or Latino	+	+	+	A24, A2, B35, B7	A24, A2, B35
+410	HIP13515	Male	58	Unknown	+	+	+	A33, A30, B35, B7	B35, B37
+411	HIP13518	Female	55	White, Not Hispanic or Latino	+	+	+	A2, A11, B44, B44	A11, A2, B44, B51, B7
+412	HIP13554	Male	57	Unknown	+	+	+	A1, A1, B8, B57	A1, B57, B8
+413	HIP13567	Female	50	White, Not Hispanic or Latino	-	-	-	A1, A2, B8, B35	A2, B35
+414	HIP13592	Male	52	White, Not Hispanic or Latino	-	-	-	A29, A31, B44, B27	A29, A31, B27, B44
+415	HIP13610	Male	39	White, Not Hispanic or Latino	+	+	+	A1, A24, B8, B44	A1, A24, B44, B8
+416	HIP13625	Female	23	Unknown, Hispanic or Latino	-	-	-	A11, A30, B35, B13	A11, A2, A30, B13, B35
+417	HIP13627	Female	53	White, Not Hispanic or Latino	+	+	+	A24, A25, B8, B18	A1, A24, A25, B18, B7, B8
+418	HIP13636	Female	46	White, Not Hispanic or Latino	+	+	+	A2, A2, B51, B35	A26, A2, B35, B51
+419	HIP13654	Female	21	White, Not Hispanic or Latino	+	+	+	A2, A2, B44, B57	A24, A2, B44
+420	HIP13658	Male	3	White, Not Hispanic or Latino	-	-	-	A2, A26, B50, B63	
+421	HIP13661	Female	43	White, Not Hispanic or Latino	-	-	-	A1, A2, B13, B62	A1, A2, B13, B15, B62
+422	HIP13663	Male	18	White, Not Hispanic or Latino	-	-	-		ND
+423	HIP13667	Male	54	Unknown	+	+	+	A24, A31, B27, B27	A24, B27
+424	HIP13671	Female	47	White, Not Hispanic or Latino	+	+	+	A3, A33, B14, B44	A33, A3, B14, B44, B7
+425	HIP13686	Male	52	Unknown	-	-	-	A29, A11, B13, B35	A29, B35
+426	HIP13695	Female	46	White, Not Hispanic or Latino	-	-	-	A3, A29, B60, B62	A3, B60
+427	HIP13699	Female	48	White, Not Hispanic or Latino	+	+	+		ND
+428	HIP13703	Female	49	White, Not Hispanic or Latino	+	+	+	A11, A29, B7, B44	A11, A29, B44, B7
+429	HIP13709	Male	23	White, Not Hispanic or Latino	-	-	-		ND
+430	HIP13710	Female	Unknown	White, Not Hispanic or Latino	-	-	-	A2, A26, B52, B50	A26
+431	HIP13720	Male	Unknown	Unknown	-	-	-	A1, A11, B7, B35	A11, A1, B35, B7
+432	HIP13722	Male	31	White, Not Hispanic or Latino	-	-	-	A30, A2, B41, B7	A2
+433	HIP13736	Male	32	White, Not Hispanic or Latino	-	-	-		ND
+434	HIP13741	Male	39	White, Not Hispanic or Latino	-	-	-		ND
+435	HIP13746	Female	35	Unknown	-	-	-	A3, A24, B7, B35	A24, A3, B35
+436	HIP13749	Female	22	White, Not Hispanic or Latino	-	-	-	A31, A3, B15, B35	A31, A3, B35, B62
+437	HIP13751	Male	44	White, Not Hispanic or Latino	+	+	+		ND
+438	HIP13753	Female	40	White, Not Hispanic or Latino	+	+	+		ND
+439	HIP13754	Female	26	White, Not Hispanic or Latino	-	-	-		ND
+440	HIP13757	Female	34	White, Not Hispanic or Latino	-	-	-	A2, A24, B60, B7	A24, A2, B7
+441	HIP13760	Male	Unknown	Unknown	-	-	-	A24, A11, B44, B55	A11, A24, A29, B13, B44, B55
+442	HIP13764	Male	5	White, Not Hispanic or Latino	-	-	-		ND
+443	HIP13766	Male	17	White, Not Hispanic or Latino	-	-	-	A24, A1, B53, B62	A1, A24, B15, B35, B62
+444	HIP13769	Male	26	White, Not Hispanic or Latino	-	-	-	A3, A1, B7, B57	A1, A3, B57, B7
+445	HIP13771	Male	52	White, Not Hispanic or Latino	+	+	+	A2, A24, B35, B38	A24, A2, B35, B38
+446	HIP13773	Female	22	American Indian or Alaska Native, Not Hispanic or Latino	+	+	+	A30, A24, B13, B61	A24, B44
+447	HIP13774	Female	43	White, Not Hispanic or Latino	-	-	-		ND
+448	HIP13777	Male	36	White, Not Hispanic or Latino	-	-	-	A3, A2, B35, B41	A2, A3, B35, B7
+449	HIP13780	Male	43	White, Not Hispanic or Latino	-	-	-	A2, A29, B45, B44	A29, A2, B44
+450	HIP13782	Male	62	Asian, Not Hispanic or Latino	+	+	+	A2, A24, B38, B61	A24
+451	HIP13786	Male	13	White, Not Hispanic or Latino	-	-	-	A3, A1, B35, B8	A1, A3, B35
+452	HIP13789	Female	63	American Indian or Alaska Native, Not Hispanic or Latino	+	+	+	A1, A2, B8, B62	A1, A2, B15, B62, B8
+453	HIP13793	Male	46	White, Not Hispanic or Latino	+	+	+		ND
+454	HIP13794	Female	36	White, Not Hispanic or Latino	-	-	-	A1, A32, B57, B62	A1, B35, B57, B7
+455	HIP13796	Female	41	White, Not Hispanic or Latino	-	-	-	A2, A23, B18, B49	A2, B18, B7, B8
+456	HIP13800	Male	66	White, Not Hispanic or Latino	+	+	+	A68, A3, B7, B8	A1, A3, B7, B8
+457	HIP13803	Female	49	White, Not Hispanic or Latino	-	-	-	A2, A31, B56, B51	A2, A31, B51
+458	HIP13806	Male	45	White, Not Hispanic or Latino	-	-	-	A1, A2, B8, B27	A1, A2, B8
+459	HIP13809	Male	49	White, Not Hispanic or Latino	+	+	+	A2, A29, B51, B44	A24, A29, A2, B37, B44, B51
+460	HIP13810	Male	39	White, Not Hispanic or Latino	-	-	-		ND
+461	HIP13812	Male	62	White, Not Hispanic or Latino	-	+	+		ND
+462	HIP13814	Female	41	White, Not Hispanic or Latino	+	+	+	A1, A3, B57, B7	A1, A3, B13, B57, B7
+463	HIP13818	Male	31	White, Not Hispanic or Latino	+	+	+	A1, A24, B18, B35	A1, B18, B35, B8
+464	HIP13822	Female	48	White, Not Hispanic or Latino	+	+	+	A1, A66, B8, B58	A1
+465	HIP13823	Female	38	White, Not Hispanic or Latino	-	-	-		ND
+466	HIP13831	Female	41	White, Not Hispanic or Latino	+	+	+	A1, A3, B8, B35	A1, A3, B35, B8
+467	HIP13833	Male	30	Asian, Not Hispanic or Latino	+	+	+	A32, A1, B35, B44	A1, B44, B8
+468	HIP13847	Male	Unknown	Unknown	-	-	-	A68, A2, B13, B51	A2, A30, A68, B13, B44, B51, B57
+469	HIP13848	Male	31	White, Not Hispanic or Latino	-	-	-		ND
+470	HIP13852	Female	62	White, Not Hispanic or Latino	+	-	-	A66, A3, B41, B35	A3, B35
+471	HIP13853	Male	7	White, Not Hispanic or Latino	-	-	-	A68, A26, B44, B27	A68, B27, B44
+472	HIP13854	Male	34	Unknown	-	-	-		ND
+473	HIP13856	Male	23	White, Not Hispanic or Latino	+	+	+	A3, A32, B7, B35	A3, B35, B7, B8
+474	HIP13857	Female	38	Unknown	-	-	-	A2, A2, B14, B57	A2, B14, B15, B62
+475	HIP13859	Male	51	White, Not Hispanic or Latino	-	-	-	A26, A1, B38, B57	A26, B38, B57
+476	HIP13860	Male	35	White, Not Hispanic or Latino	-	-	-	A68, A3, B44, B44	A3, A68, B44
+477	HIP13865	Female	43	Unknown, Hispanic or Latino	+	+	+	A24, A1, B35, B44	A1, A24, B35, B44
+478	HIP13869	Male	25	Unknown	+	+	+	A68, A1, B44, B8	A1, A68, B44, B8
+479	HIP13871	Female	41	White, Not Hispanic or Latino	-	-	-	A2, A32, B62, B37	A2, B14, B15, B62
+480	HIP13875	Male	49	White, Not Hispanic or Latino	+	+	+	A3, A3, B35, B60	A2, A3, B35, B60
+481	HIP13877	Female	8	White, Not Hispanic or Latino	-	-	-	A32, A69, B60, B35	
+482	HIP13880	Female	49	White, Not Hispanic or Latino	+	+	+	A3, A30, B35, B18	A1, A3, B18, B35, B8
+483	HIP13887	Female	55	White, Not Hispanic or Latino	-	-	-	A25, A2, B39, B7	A2, B7
+484	HIP13893	Female	33	White, Not Hispanic or Latino	-	-	-	A23, A32, B51, B44	A23, B44, B51
+485	HIP13894	Female	46	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B44	A1, A2, B44, B8
+486	HIP13900	Female	51	Asian, Not Hispanic or Latino	+	+	+	A11, A31, B13, B51	A31, B51
+487	HIP13902	Male	56	White, Not Hispanic or Latino	+	+	+	A3, A26, B35, B56	A26, A3, B35, B38
+488	HIP13903	Male	43	White, Not Hispanic or Latino	+	+	+	A2, A29, B8, B7	A1, A2, B8
+489	HIP13911	Male	22	White, Not Hispanic or Latino	+	+	+	A2, A68, B38, B15	A2, A68, B38
+490	HIP13916	Male	Unknown	Unknown	-	-	-	A2, A30, B15, B13	A2
+491	HIP13919	Female	46	White, Not Hispanic or Latino	+	+	+	A11, A29, B15, B18	A11, A1, B18, B62, B8
+492	HIP13920	Female	40	Unknown, Hispanic or Latino	-	-	-	A11, A2, B57, B39	A2
+493	HIP13923	Female	50	Asian, Not Hispanic or Latino	+	+	+	A2, A34, B38, B15	B52, B61, B7
+494	HIP13926	Female	60	White, Not Hispanic or Latino	+	+	+	A1, A31, B35, B35	
+495	HIP13928	Female	60	Asian, Not Hispanic or Latino	+	+	+	A2, A33, B35, B58	B58, B8
+496	HIP13929	Female	53	White, Not Hispanic or Latino	-	-	-	A3, A33, B35, B14	A3, B14, B35
+497	HIP13932	Female	42	White, Not Hispanic or Latino	+	+	+	A2, A31, B27, B15	A2, B27
+498	HIP13933	Female	36	White, Not Hispanic or Latino	-	-	-	A26, A68, B38, B15	A26, A68, B15, B62
+499	HIP13935	Male	49	White, Not Hispanic or Latino	-	-	-	A2, A24, B7, B56	A24, A2, B7
+500	HIP13938	Male	48	White, Not Hispanic or Latino	+	+	+	A2, A29, B50, B45	A29, A2, A3, B7
+501	HIP13939	Female	44	White, Not Hispanic or Latino	+	+	+	A2, A68, B15, B14	A2, B14, B62, B7
+502	HIP13941	Female	41	Unknown	-	-	-	A1, A2, B8, B44	A1, A2, B44, B8
+503	HIP13944	Unknown	Unknown	Unknown	Unknown	ND	ND	A2, A3, B44, B18	A29, A3, B18, B44
+504	HIP13945	Male	51	White, Not Hispanic or Latino	-	-	-	A2, A1, B8, B51	A1, A2, B51, B8
+505	HIP13947	Female	48	Unknown	-	-	-	A29, A26, B44, B38	A26, A29, B44
+506	HIP13949	Male	47	White, Not Hispanic or Latino	+	+	+	A2, A11, B50, B52	
+507	HIP13951	Female	5	White, Not Hispanic or Latino	+	+	+	A68, A3, B35, B7	A3
+508	HIP13954	Male	35	White, Not Hispanic or Latino	+	+	+	A1, A25, B8, B44	A1, B44, B8
+509	HIP13956	Female	53	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B18	A1, B18
+510	HIP13958	Male	36	White, Not Hispanic or Latino	-	-	-	A24, A31, B40, B8	A1, A24, B8
+511	HIP13961	Unknown	Unknown	Unknown	Unknown	ND	ND	A1, A2, B8, B15	A1, A2, B62, B8
+512	HIP13962	Male	42	White, Not Hispanic or Latino	+	+	+	A3, A23, B7, B8	A1, A23, A3, B7, B8
+513	HIP13964	Male	Unknown	Unknown	+	+	+	A2, A11, B44, B51	A11, A2, B44, B51
+514	HIP13966	Female	48	White, Not Hispanic or Latino	-	-	-	A1, A25, B49, B44	A1, B44
+515	HIP13967	Male	47	Native Hawaiian or other Pacific Islander, Not Hispanic or Latino	+	+	+	A3, A2, B7, B40	A2, B7
+516	HIP13972	Male	28	American Indian or Alaska Native, Not Hispanic or Latino	-	-	-	A2, A2, B27, B39	A2, A3, B39, B44
+517	HIP13975	Female	24	White, Not Hispanic or Latino	+	+	+	A1, A3, B8, B35	A1, A3, B35, B8
+518	HIP13976	Male	36	Unknown, Hispanic or Latino	+	+	+	A1, A24, B14, B7	A1, A24, B14, B7
+519	HIP13978	Male	28	White, Not Hispanic or Latino	-	-	-	A1, A1, B8, B44	A1, B44
+520	HIP13981	Male	44	White, Not Hispanic or Latino	-	-	-	A2, A3, B7, B15	A2, A3, B62, B7
+521	HIP13983	Male	49	White, Not Hispanic or Latino	-	-	-	A1, A24, B37, B39	A1, A24
+522	HIP13986	Male	53	White, Not Hispanic or Latino	+	+	+	A2, A3, B51, B7	A2, A3, B51, B7
+523	HIP13987	Female	24	Unknown, Hispanic or Latino	+	+	+	A2, A32, B39, B35	A32, B35, B44
+524	HIP13988	Male	61	White, Not Hispanic or Latino	+	+	+	A2, A29, B44, B44	A29, A2, B44
+525	HIP13989	Male	70	White, Not Hispanic or Latino	-	-	-	A3, A29, B40, B44	A29, A3
+526	HIP13992	Male	20	Unknown, Hispanic or Latino	+	+	+	A11, A36, B35, B37	A11, A1, B35, B37
+527	HIP13994	Male	64	White, Not Hispanic or Latino	+	+	+	A2, A2, B7, B44	A2, B44, B7
+528	HIP13996	Female	44	White, Not Hispanic or Latino	+	+	+	A1, A26, B8, B39	A1, B39, B7, B8
+529	HIP14000	Female	24	White, Not Hispanic or Latino	-	-	-	A68, A68, B55, B51	A68, B51
+530	HIP14004	Male	34	White, Not Hispanic or Latino	-	-	-	A25, A68, B8, B40	A1, A68, B60, B8
+531	HIP14007	Female	23	White, Not Hispanic or Latino	-	-	-	A2, A3, B35, B7	A3, B35, B7
+532	HIP14009	Female	71	White, Not Hispanic or Latino	+	-	-	A26, A23, B44, B18	B18
+533	HIP14014	Male	48	White, Not Hispanic or Latino	-	-	-	A2, A29, B40, B44	A29, A2, B44, B60
+534	HIP14015	Male	60	White, Not Hispanic or Latino	-	-	-	A2, A3, B44, B7	A2, A3, B44, B7
+535	HIP14016	Female	45	Unknown, Hispanic or Latino	+	+	+	A1, A31, B73, B14	A1, A31, B14, B7
+536	HIP14018	Male	55	White, Not Hispanic or Latino	-	-	-	A24, A24, B40, B15	A24
+537	HIP14020	Male	12	White, Not Hispanic or Latino	-	-	-	A2, A1, B27, B8	A1, A2, B27, B8
+538	HIP14022	Female	36	Black or African American, Not Hispanic or Latino	+	+	+	A33, A68, B78, B82	A68, B8
+539	HIP14024	Male	58	White, Not Hispanic or Latino	+	+	+	A1, A11, B8, B27	A11, A1, A24, B27, B8
+540	HIP14028	Male	55	White, Not Hispanic or Latino	-	-	-	A24, A25, B8, B18	A24, B18
+541	HIP14030	Male	42	White, Not Hispanic or Latino	-	-	-	A1, A24, B8, B7	A1, A24, B7
+542	HIP14034	Female	52	White, Not Hispanic or Latino	+	+	+	A1, A68, B8, B35	A1, A68, B35, B8
+543	HIP14036	Male	46	White, Not Hispanic or Latino	-	-	-	A1, A3, B44, B15	B44
+544	HIP14037	Male	Unknown	Unknown	-	-	-	A24, A32, B8, B44	A1, A24, A32, B44, B8
+545	HIP14039	Male	32	Unknown	-	-	-	A2, A3, B40, B7	A2, A3, B60
+546	HIP14041	Male	52	White, Not Hispanic or Latino	+	+	+	A2, A24, B7, B55	A24, A2, B7
+547	HIP14043	Female	34	White, Not Hispanic or Latino	-	-	-	A2, A2, B44, B44	A2, B44
+548	HIP14045	Female	74	White, Not Hispanic or Latino	+	+	+	A2, A68, B51, B35	A2, B51
+549	HIP14048	Female	Unknown	Unknown	-	-	-	A1, A3, B55, B7	A1, A3, B7
+550	HIP14051	Male	48	White, Not Hispanic or Latino	+	+	+	A2, A11, B44, B7	A11, A2, B44
+551	HIP14053	Female	36	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B39	A1, A2, B8
+552	HIP14055	Female	57	White, Not Hispanic or Latino	-	-	-	A11, A24, B51, B40	A11, A24, B51
+553	HIP14059	Female	50	White, Not Hispanic or Latino	-	-	-	A1, A24, B8, B27	A1, A24, B27, B8
+554	HIP14060	Female	48	White, Not Hispanic or Latino	+	+	+	A1, A24, B57, B35	A1, A24, B35, B57
+555	HIP14064	Female	61	White, Not Hispanic or Latino	-	-	-	A1, A1, B8, B15	A1, B8
+556	HIP14066	Male	26	White, Not Hispanic or Latino	-	-	-	A1, A3, B8, B7	A1, A3, B7, B8
+557	HIP14071	Female	45	White, Not Hispanic or Latino	+	+	+	A3, A68, B7, B13	A3, A68, B13, B57, B7
+558	HIP14072	Male	25	White, Not Hispanic or Latino	-	-	-	A2, A25, B51, B18	A2, B18, B51, B7
+559	HIP14074	Male	57	White, Not Hispanic or Latino	-	-	-	A11, A29, B27, B51	A11, A29, B27
+560	HIP14077	Male	25	Unknown	-	-	-	A33, A3, B50, B7	A3, B7, B8
+561	HIP14079	Female	10	White, Not Hispanic or Latino	-	-	-	A26, A2, B15, B13	A2
+562	HIP14080	Male	28	White, Not Hispanic or Latino	-	+	+	A2, A2, B7, B51	A2, A3, B51, B7
+563	HIP14089	Male	36	White, Not Hispanic or Latino	-	-	-	A1, A23, B58, B49	A1
+564	HIP14090	Male	59	Unknown, Hispanic or Latino	-	-	-	A2, A30, B7, B44	A29, A2, B44, B7
+565	HIP14092	Female	27	American Indian or Alaska Native, Not Hispanic or Latino	+	+	+	A2, A2, B15, B40	A2, B60
+566	HIP14095	Female	55	White, Not Hispanic or Latino	-	-	-	A2, A68, B7, B14	A2, B14, B7
+567	HIP14096	Female	42	White, Not Hispanic or Latino	+	+	+	A2, A80, B15, B58	A2, A32, B62
+568	HIP14103	Male	43	White, Not Hispanic or Latino	+	+	+	A1, A3, B44, B7	A29, A3, B35, B44, B7
+569	HIP14106	Male	37	White, Not Hispanic or Latino	+	+	+	A2, A11, B44, B35	A11, A29, A2, B35, B44
+570	HIP14107	Female	40	Unknown, Hispanic or Latino	+	+	+	A30, A68, B13, B48	A30, A68, B13
+571	HIP14109	Female	54	White, Not Hispanic or Latino	-	-	-	A2, A3, B57, B7	A3, B7
+572	HIP14110	Female	42	White, Not Hispanic or Latino	-	-	-	A1, A2, B8, B51	A1, A2, B51, B7, B8
+573	HIP14114	Female	57	White, Not Hispanic or Latino	-	-	-	A1, A2, B7, B15	A2, A3, B62
+574	HIP14118	Female	59	White, Not Hispanic or Latino	+	+	+	A2, A32, B38, B57	A2
+575	HIP14121	Male	49	White, Not Hispanic or Latino	-	-	-	A11, A31, B35, B35	A11, B35
+576	HIP14124	Female	37	White, Not Hispanic or Latino	+	+	+	A3, A3, B7, B50	A3
+577	HIP14127	Male	54	Unknown	-	-	-	A1, A3, B8, B15	A1, A3, B62, B8
+578	HIP14129	Female	39	White, Not Hispanic or Latino	-	-	-	A2, A25, B8, B18	A1, A2, B18, B7, B8
+579	HIP14130	Male	35	White, Not Hispanic or Latino	-	-	-	A1, A2, B8, B40	A1, A2, B60
+580	HIP14134	Unknown	Unknown	Unknown	Unknown	ND	ND	A2, A25, B39, B18	A2, B18, B39, B7
+581	HIP14136	Male	42	White, Not Hispanic or Latino	+	+	+	A1, A3, B7, B14	A1, A3, B14, B7
+582	HIP14138	Unknown	Unknown	Unknown	Unknown	ND	ND	A11, A32, B27, B35	A11, A2, B27, B35
+583	HIP14140	Male	34	Unknown	-	-	-	A26, A3, B55, B18	A11, A26, A3, B18
+584	HIP14142	Female	22	Unknown	+	+	+	A24, A32, B35, B44	A24, B35, B44
+585	HIP14143	Unknown	Unknown	Unknown	Unknown	ND	ND	A1, A32, B8, B35	A1, A24, B8
+586	HIP14148	Male	21	White, Not Hispanic or Latino	+	+	+	A2, A32, B44, B13	A2, A30, B13, B44
+587	HIP14152	Male	48	Unknown, Hispanic or Latino	+	+	+	A2, A68, B52, B39	A2
+588	HIP14153	Female	60	White, Not Hispanic or Latino	-	-	-	A23, A68, B44, B40	B44
+589	HIP14156	Unknown	Unknown	Unknown	Unknown	ND	ND	A2, A24, B44, B15	A24, A2, B62, B7
+590	HIP14157	Male	23	White, Not Hispanic or Latino	+	+	+	A2, A2, B7, B14	A2, B14
+591	HIP14160	Unknown	Unknown	Unknown	Unknown	ND	ND	A23, A24, B44, B15	A23, B35, B44
+592	HIP14161	Female	34	White, Not Hispanic or Latino	+	+	+	A68, A68, B14, B44	A1, A68, B14, B44, B8
+593	HIP14170	Unknown	Unknown	Unknown	Unknown	ND	ND	A24, A32, B44, B40	A24, A32, B44
+594	HIP14172	Unknown	Unknown	Unknown	Unknown	ND	ND	A2, A26, B27, B44	A26, A2, B27, B44
+595	HIP14174	Male	60	White, Not Hispanic or Latino	-	-	-	A2, A3, B27, B7	A2, A3, B27, B7
+596	HIP14175	Male	59	White, Not Hispanic or Latino	+	+	+	A1, A68, B18, B56	A68
+597	HIP14176	Male	32	Unknown	-	-	-	A3, A3, B7, B8	A1, A3, B7, B8
+598	HIP14178	Unknown	Unknown	Unknown	Unknown	ND	ND	A1, A3, B8, B40	A1, A3, B8
+599	HIP14181	Female	52	White, Not Hispanic or Latino	+	+	+	A2, A2, B27, B27	A24, A2, B27
+600	HIP14183	Male	57	White, Not Hispanic or Latino	+	+	+	A1, A3, B8, B7	A1, A3, B7, B8
+601	HIP14184	Female	53	White, Not Hispanic or Latino	-	-	-	A2, A32, B15, B35	A2, B44, B62
+602	HIP14187	Female	43	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B44	A2
+603	HIP14192	Female	49	White, Not Hispanic or Latino	-	-	-	A31, A2, B7, B15	A2
+604	HIP14194	Female	46	White, Not Hispanic or Latino	+	+	+	A2, A3, B27, B7	A3, B27
+605	HIP14196	Male	63	White, Not Hispanic or Latino	-	-	-	A3, A3, B7, B7	A3
+606	HIP14202	Male	22	White, Not Hispanic or Latino	-	-	-	A2, A3, B7, B7	A2, A3, B7
+607	HIP14205	Male	48	Native Hawaiian or other Pacific Islander, Not Hispanic or Latino	+	+	+	A32, A34, B44, B40	B44
+608	HIP14206	Female	41	White, Not Hispanic or Latino	-	-	-	A1, A11, B15, B7	B7
+609	HIP14209	Female	60	White, Not Hispanic or Latino	-	-	-	A11, A26, B40, B38	A26, B38, B60
+610	HIP14211	Female	23	Unknown	-	-	-	A33, A3, B14, B7	A3, B14, B7
+611	HIP14213	Female	60	White, Not Hispanic or Latino	-	-	-	A2, A31, B15, B18	A2, B18
+612	HIP14214	Male	60	White, Not Hispanic or Latino	-	-	-	A1, A24, B37, B7	A24, B37, B7
+613	HIP14217	Male	41	White, Not Hispanic or Latino	-	-	-	A24, A1, B40, B41	A1, A24
+614	HIP14218	Male	34	Unknown	-	-	-	A25, A1, B18, B8	A1, B18, B7, B8
+615	HIP14221	Female	67	White, Not Hispanic or Latino	+	+	+	A68, A2, B35, B51	A2, A68, B35, B51
+616	HIP14223	Male	44	Asian, Not Hispanic or Latino	+	-	-	A2, A31, B51, B35	A2, A31, B35
+617	HIP14226	Male	51	White, Not Hispanic or Latino	-	-	-	A24, A25, B50, B18	A24, A25, B18, B7
+618	HIP14227	Female	45	White, Not Hispanic or Latino	+	-	-	A2, A23, B7, B44	A23, A2, B44
+619	HIP14230	Female	62	White, Not Hispanic or Latino	-	-	-	A3, A33, B35, B15	B35
+620	HIP14231	Female	45	White, Not Hispanic or Latino	+	+	+	A3, A24, B35, B15	A24, A3, B35
+621	HIP14234	Unknown	Unknown	Unknown	Unknown	ND	ND	A29, A3, B44, B7	A29, A3, B44, B7
+622	HIP14236	Male	56	White, Not Hispanic or Latino	+	+	+	A3, A24, B7, B15	A24, A2, A3, B62, B7
+623	HIP14237	Male	39	Unknown	-	-	-	A2, A2, B44, B35	A2, B35, B44
+624	HIP14238	Unknown	Unknown	Unknown	Unknown	ND	ND	A24, A24, B40, B44	A24, B44, B60
+625	HIP14240	Female	23	White, Not Hispanic or Latino	-	-	-	A1, A1, B8, B35	A1, B35, B8
+626	HIP14241	Male	15	White, Not Hispanic or Latino	-	-	-	A24, A24, B51, B44	A24, B44, B51
+627	HIP14243	Unknown	Unknown	Unknown	Unknown	ND	ND	A2, A31, B7, B35	A2, B35
+628	HIP14244	Female	9	White, Not Hispanic or Latino	+	-	-	A32, A2, B42, B15	A2, B15
+629	HIP14361	Female	Unknown	Unknown	+	+	+	A2, A2, B39, B15	A2, B62
+630	HIP14363	Unknown	Unknown	Unknown	Unknown	ND	ND	A2, A11, B35, B35	A2, B35
+631	HIP14494	Male	2	White, Not Hispanic or Latino	-	-	-	A1, A3, B57, B56	
+632	HIP14844	Unknown	Unknown	Unknown	Unknown	ND	ND	A1, A24, B57, B44	A1, A24, B44, B57
+633	HIP14911	Male	42	White, Not Hispanic or Latino	-	-	-	A11, A32, B7, B15	B62, B7
+634	HIP15685	Male	55	White, Not Hispanic or Latino	+	+	+	A24, A32, B44, B38	A24, A32, B35, B44
+635	HIP15854	Male	30	White, Not Hispanic or Latino	+	+	+	A23, A2, B58, B7	A23, A2
+636	HIP15855	Male	60	White, Not Hispanic or Latino	-	-	-	A1, A2, B35, B44	A2, B35
+637	HIP15860	Unknown	Unknown	Unknown	Unknown	ND	ND	A1, A68, B57, B14	A1, A33, B14, B57
+638	HIP15861	Male	55	White, Not Hispanic or Latino	+	+	+	A25, A29, B58, B44	A29, B44
+639	HIP16515	Male	33	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B18	A1, A2, B18, B8
+640	HIP16738	Unknown	Unknown	Unknown	Unknown	ND	ND	A3, A25, B7, B18	A3, B18, B7
+641	HIP16867	Male	47	Unknown	+	+	+	A24, A24, B7, B35	A24, B35
+642	HIP17370	Female	44	Unknown	+	+	+	A24, A26, B7, B61	A24, A26, A3, B7
+643	HIP17440	Male	6	White, Not Hispanic or Latino	-	-	-		ND
+644	HIP17445	Male	45	White, Not Hispanic or Latino	-	-	-	A11, A26, B7, B38	A11, A26, B38, B7
+645	HIP17449	Male	Unknown	White, Not Hispanic or Latino	-	-	-	A1, A2, B8, B44	A1, A2, B44, B8
+646	HIP17454	Female	45	White, Not Hispanic or Latino	-	-	-		ND
+647	HIP17457	Female	51	White, Not Hispanic or Latino	-	-	-	A3, A68, B35, B51	A3, A68, B35, B51
+648	HIP17462	Male	47	Asian, Not Hispanic or Latino	+	+	+	A11, A24, B7, B8	A11, A1, A24, B7, B8
+649	HIP17534	Female	55	White, Not Hispanic or Latino	+	+	+	A1, A2, B8, B15	A1, A2, B62, B8
+650	HIP17577	Female	51	White, Not Hispanic or Latino	+	+	+	A2, A11, B8, B39	A11, A1, A2, B39, B8
+651	HIP17585	Female	58	White, Not Hispanic or Latino	-	-	-	A24, A29, B57, B44	A24, A29, B44, B57
+652	HIP17657	Unknown	Unknown	Unknown	Unknown	ND	ND	A2, A2, B40, B51	A2
+653	HIP17698	Female	43	White, Not Hispanic or Latino	-	-	-	A3, A2, B8, B44	A1, A2, A3, B44, B8
+654	HIP17723	Female	39	Unknown, Hispanic or Latino	+	+	+	A2, A2, B18, B39	A1, A2, B18, B8
+655	HIP17737	Unknown	Unknown	Unknown	Unknown	ND	ND	A3, A33, B15, B15	A3
+656	HIP17760	Male	56	Black or African American, Not Hispanic or Latino	+	+	+	A24, A68, B27, B15	A1, B27, B8
+657	HIP17793	Unknown	Unknown	Unknown	Unknown	ND	ND	A2, A2, B7, B35	A2, B35, B7
+658	HIP17837	Male	28	White, Not Hispanic or Latino	+	+	+	A23, A30, B44, B53	A23, B35, B44
+659	HIP17845	Female	34	Unknown	+	+	+	A2, A3, B51, B8	A1, A2, B51, B8
+660	HIP17887	Unknown	Unknown	Unknown	Unknown	ND	ND	A2, A29, B7, B44	A29, A2, B7
+661	HIP19048	Female	57	Unknown	-	-	-	A1, A2, B57, B51	A1, A2
+662	HIP19089	Unknown	Unknown	Unknown	Unknown	ND	ND	A1, A80, B13, B44	A1, A29, B44
+663	HIP19716	Unknown	Unknown	Unknown	Unknown	ND	ND	A1, A1, B8, B8	A1, B8
+664	HIP19717	Male	48	Unknown, Hispanic or Latino	+	+	+	A1, A1, B18, B35	A1, B18, B35, B8
+665	Keck0001_MC1	Female	22	White, Not Hispanic or Latino	+	-			
+666	Keck0002_MC1	Female	21	White, Not Hispanic or Latino	-	-			
+667	Keck0003_MC1	Female	25	American Indian or Alaska Native, Not Hispanic or Latino	-	-			
+668	Keck0004_MC1	Female	24	White, Not Hispanic or Latino	+	+			
+669	Keck0005_MC1	Male	24	White, Not Hispanic or Latino	-	-			
+670	Keck0006_MC1	Male	23	White, Not Hispanic or Latino	-	-			
+671	Keck0007_MC1	Female	22	White, Not Hispanic or Latino	+	+			
+672	Keck0008_MC1	Female	24	White, Not Hispanic or Latino	-	-			
+673	Keck0009_MC1	Female	23	White, Hispanic or Latino	+	+			
+674	Keck0010_MC1	Female	24	White, Not Hispanic or Latino	-	-			
+675	Keck0011_MC1	Male	24	White, Hispanic or Latino	-	-			
+676	Keck0012_MC1	Male	25	Asian, Hispanic or Latino	-	-			
+677	Keck0013_MC1	Male	23	White, Not Hispanic or Latino	+	+			
+678	Keck0014_MC1	Female	19	Asian, Not Hispanic or Latino	-	-			
+679	Keck0015_MC1	Male	20	Asian, Not Hispanic or Latino	+	+			
+680	Keck0016_MC1	Male	22	White, Not Hispanic or Latino	-	+			
+681	Keck0017_MC1	Female	21	White, Not Hispanic or Latino	-	-			
+682	Keck0018_MC1	Female	19	Asian, Not Hispanic or Latino	+	+			
+683	Keck0019_MC1	Female	21	White, Not Hispanic or Latino	-	-			
+684	Keck0020_MC1	Female	20	Asian, Not Hispanic or Latino	-	-			
+685	Keck0021_MC1	Female	26	White, Not Hispanic or Latino	-	-			
+686	Keck0022_MC1	Female	21	Asian, Not Hispanic or Latino	-	-			
+687	Keck0023_MC1	Female	22	White, Not Hispanic or Latino	+	+			
+688	Keck0024_MC1	Male	25	White, Not Hispanic or Latino	-	-			
+689	Keck0025_MC1	Male	22	Asian, Not Hispanic or Latino	-	-			
+690	Keck0026_MC1	Female	19	White, Not Hispanic or Latino	+	+			
+691	Keck0027_MC1	Male	24	White, Hispanic or Latino	-	-			
+692	Keck0028_MC1	Male	20	Asian, Not Hispanic or Latino	-	-			
+693	Keck0029_MC1	Female	20	Asian, Not Hispanic or Latino	-	-			
+694	Keck0030_MC1	Male	23	White, Not Hispanic or Latino	+	+			
+695	Keck0031_MC1	Female	25	White, Not Hispanic or Latino	-	-			
+696	Keck0032_MC1	Male	22	Asian, Not Hispanic or Latino	+	+			
+697	Keck0033_MC1	Female	24	Asian, Not Hispanic or Latino	+	+			
+698	Keck0034_MC1	Female	21	White, Not Hispanic or Latino	-	+			
+699	Keck0035_MC1	Male	20	Asian, Not Hispanic or Latino	+	+			
+700	Keck0036_MC1	Female	23	White, Not Hispanic or Latino	-	-			
+701	Keck0037_MC1	Male	24	White, Not Hispanic or Latino	-	-			
+702	Keck0038_MC1	Male	21	White, Not Hispanic or Latino	-	-			
+703	Keck0039_MC1	Male	27	White, Not Hispanic or Latino	-	-			
+704	Keck0040_MC1	Female	32	White, Not Hispanic or Latino	+	-			
+705	Keck0041_MC1	Male	27	White, Not Hispanic or Latino	-	-			
+706	Keck0042_MC1	Male	19	Asian, Not Hispanic or Latino	-	-			
+707	Keck0043_MC1	Female	19	White, Not Hispanic or Latino	+	+			
+708	Keck0044_MC1	Female	28	Asian, Not Hispanic or Latino	+	+			
+709	Keck0045_MC1	Female	34	White, Not Hispanic or Latino	-	-			
+710	Keck0046_MC1	Female	27	White, Not Hispanic or Latino	-	-			
+711	Keck0047_MC1	Female	30	White, Not Hispanic or Latino	-	-			
+712	Keck0048_MC1	Male	30	White, Not Hispanic or Latino	-	-			
+713	Keck0049_MC1	Female	27	Asian, Not Hispanic or Latino	-	+			
+714	Keck0050_MC1	Male	25	Other, Not Hispanic or Latino	+	+			
+715	Keck0051_MC1	Female	31	White, Not Hispanic or Latino	-	+			
+716	Keck0052_MC1	Male	33	White, Not Hispanic or Latino	+	+			
+717	Keck0053_MC1	Female	25	White, Not Hispanic or Latino	+	+			
+718	Keck0054_MC1	Female	33	Other, Not Hispanic or Latino	+	+			
+719	Keck0055_MC1	Male	32	White, Not Hispanic or Latino	+	+			
+720	Keck0056_MC1	Male	32	White, Not Hispanic or Latino	-	-			
+721	Keck0057_MC1	Male	32	White, Not Hispanic or Latino	+	+			
+722	Keck0058_MC1	Female	26	Asian, Not Hispanic or Latino	-	-			
+723	Keck0059_MC1	Male	33	White, Not Hispanic or Latino	+	+			
+724	Keck0060_MC1	Male	22	White, Not Hispanic or Latino	+	+			
+725	Keck0061_MC1	Male	22	White, Not Hispanic or Latino	-	-			
+726	Keck0062_MC1	Male	23	Asian, Not Hispanic or Latino	+	+			
+727	Keck0063_MC1	Female	23	White, Not Hispanic or Latino	-	-			
+728	Keck0064_MC1	Female	27	White, Not Hispanic or Latino	-	-			
+729	Keck0065_MC1	Female	27	Asian, Not Hispanic or Latino	+	+			
+730	Keck0066_MC1	Male	35	White, Not Hispanic or Latino	-	-			
+731	Keck0067_MC1	Male	28	Asian, Not Hispanic or Latino	+	+			
+732	Keck0068_MC1	Female	28	White, Not Hispanic or Latino	+	+			
+733	Keck0069_MC1	Female	28	White, Not Hispanic or Latino	-	-			
+734	Keck0070_MC1	Female	23	White, Not Hispanic or Latino	-	-			
+735	Keck0071_MC1	Female	32	White, Not Hispanic or Latino	-	-			
+736	Keck0072_MC1	Male	26	White, Not Hispanic or Latino	-	-			
+737	Keck0073_MC1	Female	24	White, Not Hispanic or Latino	+	+			
+738	Keck0074_MC1	Male	24	White, Not Hispanic or Latino	-	-			
+739	Keck0075_MC1	Female	25	Asian, Not Hispanic or Latino	+	+			
+740	Keck0076_MC1	Male	27	Asian, Not Hispanic or Latino	+	+			
+741	Keck0077_MC1	Male	23	White, Not Hispanic or Latino	+	-			
+742	Keck0078_MC1	Female	23	White, Not Hispanic or Latino	-	-			
+743	Keck0079_MC1	Female	33	White, Not Hispanic or Latino	-	-			
+744	Keck0080_MC1	Female	31	White, Not Hispanic or Latino	+	+			
+745	Keck0081_MC1	Female	28	White, Not Hispanic or Latino	-	-			
+746	Keck0082_MC1	Male	29	White, Not Hispanic or Latino	+	+			
+747	Keck0083_MC1	Female	35	White, Not Hispanic or Latino	-	-			
+748	Keck0084_MC1	Female	34	Asian, Not Hispanic or Latino	+	-			
+749	Keck0085_MC1	Female	30	White, Not Hispanic or Latino	-	-			
+750	Keck0086_MC1	Female	27	White, Not Hispanic or Latino	-	-			
+751	Keck0087_MC1	Male	29	White, Not Hispanic or Latino	-	-			
+752	Keck0088_MC1	Female	25	Asian, Not Hispanic or Latino	+	+			
+753	Keck0089_MC1	Female	34	Black or African American, Not Hispanic or Latino	+	+			
+754	Keck0090_MC1	Female	22	White, Not Hispanic or Latino	+	+			
+755	Keck0091_MC1	Male	23	Black or African American, Not Hispanic or Latino	+	+			
+756	Keck0092_MC1	Male	21	White, Not Hispanic or Latino	+	+			
+757	Keck0093_MC1	Female	27	White, Not Hispanic or Latino	-	-			
+758	Keck0094_MC1	Male	29	White, Not Hispanic or Latino	-	-			
+759	Keck0095_MC1	Male	34	White, Not Hispanic or Latino	-	-			
+760	Keck0096_MC1	Female	25	White, Not Hispanic or Latino	+	+			
+761	Keck0097_MC1	Female	22	Asian, Not Hispanic or Latino	-	-			
+762	Keck0098_MC1	Female	20	White, Not Hispanic or Latino	-	-			
+763	Keck0099_MC1	Female	22	White, Not Hispanic or Latino	+	+			
+764	Keck0100_MC1	Female	21	White, Not Hispanic or Latino	-	+			
+765	Keck0101_MC1	Female	35	White, Not Hispanic or Latino	+	+			
+766	Keck0102_MC1	Male	32	White, Not Hispanic or Latino	-	-			
+767	Keck0103_MC1	Female	35	White, Not Hispanic or Latino	-	-			
+768	Keck0104_MC1	Female	30	White, Not Hispanic or Latino	+	+			
+769	Keck0105_MC1	Female	32	White, Not Hispanic or Latino	-	-			
+770	Keck0106_MC1	Female	33	White, Not Hispanic or Latino	-	+			
+771	Keck0107_MC1	Female	22	Black or African American, Not Hispanic or Latino	-	+			
+772	Keck0108_MC1	Female	29	Other, Hispanic or Latino	+	-			
+773	Keck0109_MC1	Male	23	White, Not Hispanic or Latino	+	+			
+774	Keck0110_MC1	Female	27	White, Not Hispanic or Latino	+	+			
+775	Keck0111_MC1	Female	28	White, Not Hispanic or Latino	-	-			
+776	Keck0112_MC1	Male	28	White, Not Hispanic or Latino	-	-			
+777	Keck0113_MC1	Female	20	White, Not Hispanic or Latino	-	+			
+778	Keck0114_MC1	Female	19	White, Not Hispanic or Latino	-	-			
+779	Keck0115_MC1	Male	25	White, Not Hispanic or Latino	+	+			
+780	Keck0116_MC1	Female	19	Asian, Not Hispanic or Latino	-	-			
+781	Keck0117_MC1	Male	34	White, Not Hispanic or Latino	+	+			
+782	Keck0118_MC1	Male	28	White, Not Hispanic or Latino	+	+			
+783	Keck0119_MC1	Female	24	Asian, Not Hispanic or Latino	+	+			
+784	Keck0120_MC1	Female	26	White, Not Hispanic or Latino	-	-			
