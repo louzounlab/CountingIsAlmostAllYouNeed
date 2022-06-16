@@ -10,3 +10,4 @@ autoencoder_dictionary - The path to your pretrained autoencoder dict. You may u
 
 model_type - The type of model you with to train. Recieves either 'count' or 'attTCR'
             
+We suggest you use a GPU to run the attTCR code, in order to improve your runtime.
