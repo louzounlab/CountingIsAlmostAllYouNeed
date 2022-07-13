@@ -1,0 +1,14 @@
+{
+  "regularization": 0.0492376929380746,
+  "activation": "tanh",
+  "learning_rate": 0.0000125159591942502,
+  "layer_1": 14,
+  "preweight": 25,
+  "batch_size": 5,
+  "layer_2": 23,
+  "dropout": 0.0354117420779439,
+  "numrec": 125,
+  "thresh": 0.2,
+  "graph_model": "projection",
+  "ae": "../Count&attTCR/vae_vgene_ae.pt"
+}
