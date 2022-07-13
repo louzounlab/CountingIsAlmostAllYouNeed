@@ -8,5 +8,7 @@ To run the models run the command:
 python run.py --config <config_file> -- model <model_type> --params <param_file>
 
 **model_type** : The model you wish to run. Can be either 'gTCR', 'attTCR' or 'count'.
+
 **config_file** : The data config json file. See example file.
+
 **param_file** : The parameter json file. The defualt parameters used in the paper are provided in the example files, but you may edit them.
